@@ -10,8 +10,6 @@ trash
 firebaseCred.json
 auth.json
 fb.py
-package-lock.json
-package.json
 .firebaserc
 firebase.json
 crawling-10000recipe
