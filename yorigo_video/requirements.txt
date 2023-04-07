@@ -1,0 +1,4 @@
+sklearn
+pytube
+easyocr
+opencv-python
