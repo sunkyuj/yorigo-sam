@@ -10,6 +10,11 @@ trash
 firebaseCred.json
 auth.json
 fb.py
+package-lock.json
+package.json
+.firebaserc
+firebase.json
+crawling-10000recipe
 # Created by https://www.gitignore.io/api/osx,linux,python,windows,pycharm,visualstudiocode
 
 # vscode config 
